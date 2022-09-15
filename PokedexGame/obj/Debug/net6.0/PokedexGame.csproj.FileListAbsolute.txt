@@ -1,0 +1,15 @@
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\obj\Debug\net6.0\PokedexGame.csproj.AssemblyReference.cache
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\obj\Debug\net6.0\PokedexGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\obj\Debug\net6.0\PokedexGame.AssemblyInfoInputs.cache
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\obj\Debug\net6.0\PokedexGame.AssemblyInfo.cs
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\obj\Debug\net6.0\PokedexGame.csproj.CoreCompileInputs.cache
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\bin\Debug\net6.0\PokedexGame.exe
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\bin\Debug\net6.0\PokedexGame.deps.json
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\bin\Debug\net6.0\PokedexGame.runtimeconfig.json
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\bin\Debug\net6.0\PokedexGame.dll
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\bin\Debug\net6.0\PokedexGame.pdb
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\obj\Debug\net6.0\PokedexGame.dll
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\obj\Debug\net6.0\refint\PokedexGame.dll
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\obj\Debug\net6.0\PokedexGame.pdb
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\obj\Debug\net6.0\PokedexGame.genruntimeconfig.cache
+C:\Users\Carmen\Desktop\Programmier-Projekte\PokedexGame\PokedexGame\obj\Debug\net6.0\ref\PokedexGame.dll
